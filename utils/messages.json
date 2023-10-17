@@ -1,0 +1,39 @@
+{
+  "common_messages_error": "Something went wrong, please try again later", 
+  "common_messages_record_available": "Records are available", 
+  "common_messages_record_not_available": "Records are not available", 
+  "common_messages_record_added": "Records added successfully", 
+  "common_messages_record_updated": "Records updated successfully",
+  "common_messages_record_updated_failed": "Records updated Failed",
+  "common_messages_record_deleted": "Records deleted successfully",
+  "common_messages_record_deleted_failed": "Failed to delete records",
+  "age_empty":"Age is Empty",
+  "gender_empty":"gender is Empty",
+  "user_id_empty": "User id is empty", 
+  "firstName_is_empty": "FirstName is empty", 
+  "lastName_is_empty": "LastName is empty", 
+  "age_is_empty": "Age is empty", 
+  "user_delete":"user has been deleted",
+  "mobile_empty": "Mobile number is empty",
+  "address_is_empty": "Address is empty",
+  "note_is_empty": "Note is empty",
+  "registration_success": "Registration done successfully",
+  "login_success": "Login successfully",
+  "logout_success": "Logout successfully",
+  "empty_password": "Enter password",
+  "password_length_6": "Password must be minimum 6 character long",
+  "wrong_password": "Incorrect password",
+  "user_not_found": "User not found",
+  "in_correct_login_details": "Incorrect login credentials",
+  "update_profile_success": "Profile has been updated",
+  "something_went_wrong": "Something went wrong",
+  "required_parameters_null_or_missing":"Required Parameters Null Or Missing",
+  "username_already_exist": "User Name already registered",
+  "user_update_success": "User has been updated",
+  "username_is_empty":"User Name is Empty",
+  "name_is_empty":"Name is Empty"
+  
+  
+
+  
+}
